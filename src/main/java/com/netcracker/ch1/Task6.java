@@ -1,4 +1,4 @@
-package com.netcracer.ch1;
+package com.netcracker.ch1;
 
 import java.math.BigInteger;
 

@@ -1,10 +1,8 @@
-package com.netcracer.ch3.interfaces;
+package com.netcracker.ch3.interfaces;
 
 
 
 import java.util.Arrays;
-import java.util.Comparator;
-import java.util.NoSuchElementException;
 
 public interface IntSequence {
     boolean hasNext();

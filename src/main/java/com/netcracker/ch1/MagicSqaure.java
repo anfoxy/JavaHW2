@@ -1,6 +1,4 @@
-package com.netcracer.ch1;
-
-import java.util.Arrays;
+package com.netcracker.ch1;
 
 public class MagicSqaure {
     private int[][] matrix;

@@ -1,6 +1,6 @@
-package com.netcracer.ch3;
+package com.netcracker.ch3;
 
-import com.netcracer.ch3.interfaces.IntSequence;
+import com.netcracker.ch3.interfaces.IntSequence;
 
 public class Task4 {
         public static void main(String[] args) {

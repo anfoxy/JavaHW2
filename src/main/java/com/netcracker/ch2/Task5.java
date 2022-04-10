@@ -1,4 +1,4 @@
-package com.netcracer.ch2;
+package com.netcracker.ch2;
 
 public class Task5 {
     public static void main(String[] args) {

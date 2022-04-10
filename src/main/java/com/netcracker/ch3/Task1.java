@@ -1,6 +1,6 @@
-package com.netcracer.ch3;
+package com.netcracker.ch3;
 
-import com.netcracer.ch3.interfaces.Measurable;
+import com.netcracker.ch3.interfaces.Measurable;
 
 
 

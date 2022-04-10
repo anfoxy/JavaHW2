@@ -1,4 +1,4 @@
-package com.netcracer.ch2;
+package com.netcracker.ch2;
 
 import java.io.FileReader;
 import java.util.Arrays;

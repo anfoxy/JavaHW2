@@ -1,4 +1,4 @@
-package com.netcracer.ch2;
+package com.netcracker.ch2;
 
 public class Point {
    private double x;
